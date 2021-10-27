@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tiny-lp-calc/static/css/main.a617e044.chunk.css",
+    "main.js": "/tiny-lp-calc/static/js/main.a60ef45b.chunk.js",
+    "main.js.map": "/tiny-lp-calc/static/js/main.a60ef45b.chunk.js.map",
+    "runtime-main.js": "/tiny-lp-calc/static/js/runtime-main.72897c49.js",
+    "runtime-main.js.map": "/tiny-lp-calc/static/js/runtime-main.72897c49.js.map",
+    "static/js/2.c4628a80.chunk.js": "/tiny-lp-calc/static/js/2.c4628a80.chunk.js",
+    "static/js/2.c4628a80.chunk.js.map": "/tiny-lp-calc/static/js/2.c4628a80.chunk.js.map",
+    "static/js/3.2b5aa032.chunk.js": "/tiny-lp-calc/static/js/3.2b5aa032.chunk.js",
+    "static/js/3.2b5aa032.chunk.js.map": "/tiny-lp-calc/static/js/3.2b5aa032.chunk.js.map",
+    "index.html": "/tiny-lp-calc/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/tiny-lp-calc/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c4628a80.chunk.js.LICENSE.txt": "/tiny-lp-calc/static/js/2.c4628a80.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tiny-lp-calc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72897c49.js",
+    "static/js/2.c4628a80.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a60ef45b.chunk.js"
+  ]
+}
